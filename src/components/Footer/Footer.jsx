@@ -152,7 +152,6 @@ export default function Footer() {
           ZAMAJ ABDU PRODUCT STORE
             </div>
           </div>
-        </div>
       </footer>
     </>
   );
