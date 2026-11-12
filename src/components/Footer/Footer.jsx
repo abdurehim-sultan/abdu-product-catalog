@@ -28,15 +28,7 @@ export default function Footer() {
                     Other Sites
                   </h3>
                   <a
-                    href="https://mohamedemary.github.io/route-frontend/assignments/10-daniels/index.html"
-                    target="_blank"
-                    rel="noopener noreferrer"
-                    className="block mt-2 text-sm text-gray-600 dark:text-gray-400 hover:underline"
-                  >
-                    Daniels
-                  </a>
-                  <a
-                    href="https://mohamedemary.github.io/route-frontend/assignments/07-devFolio/index.html"
+                    href="https://github.com/abdurehim-sultan/abdu-product-catalog/edit/main/src/components/Footer/Footer.jsx"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="block mt-2 text-sm text-gray-600 dark:text-gray-400 hover:underline"
@@ -51,12 +43,7 @@ export default function Footer() {
                   >
                     Game Over
                   </a>
-                  <a
-                    href="https://todo-app-wine-tau.vercel.app/"
-                    target="_blank"
-                    rel="noopener noreferrer"
-                    className="block mt-2 text-sm text-gray-600 dark:text-gray-400 hover:underline"
-                  >
+                  
                     Todo App
                   </a>
                 </div>
@@ -119,38 +106,24 @@ export default function Footer() {
                     Contact
                   </h3>
                   <span className="block mt-2 text-sm text-gray-600 dark:text-gray-400 hover:underline">
-                    <a href="mailto:mohamed.ahmed.emary@gmail.com">
-                      mohamed.ahmed.emary@gmail.com
+                    <a href="Abdu1234sultan@gmail.com">
+                      Abdu1234sultan@gmail.com 
                     </a>
                   </span>
                   <span className="block space-x-2 mt-2 text-sm text-gray-600 dark:text-gray-400 hover:underline">
-                    <a
-                      href="https://linkedin.com/in/mohamedemary"
+                    <a href="https://www.linkedin.com/in/abdu-sultan-b899b3320?utm_source=share_via&utm_content=profile&utm_medium=member_android"
                       target="_blank"
                       rel="noopener noreferrer"
                     >
                       <i className="fa-lg fa-fw  fab fa-linkedin"></i>
                     </a>
                     <a
-                      href="https://github.com/mohamedemary"
-                      target="_blank"
-                      rel="noopener noreferrer"
-                    >
-                      <i className="fa-lg fa-fw  fab fa-github"></i>
-                    </a>
-                    <a
-                      href="mailto:mohamed.ahmed.emary@gmail.com"
+                      href="https://github.com/abdurehim-sultan/abdu-product-catalog/edit/main/src/components/Footer/Footer.jsx"
                       target="_blank"
                       rel="noopener noreferrer"
                     >
                       <i className="fa-lg fa-fw  far fa-envelope"></i>
                     </a>
-                    <a
-                      href="https://leetcode.com/Spark71"
-                      className="inline"
-                      target="_blank"
-                      rel="noopener noreferrer"
-                    >
                       <svg
                         className="inline text-sm"
                         xmlns="http://www.w3.org/2000/svg"
@@ -178,7 +151,7 @@ export default function Footer() {
           </div>
           <div>
             <div className="text-center italic py-3 text-gray-500 dark:text-gray-400">
-              Made with love and passion by Mohamed Emary
+          ZAMAJ ABDU PRODUCT STORE
             </div>
           </div>
         </div>
