@@ -66,9 +66,7 @@ export default function Register() {
 
     phone: Yup.string()
       .required('Phone number is required')
-      .matches(
-        /^01[0-2|5]{1}[0-9]{8}$/,
-        'Phone number is not valid (123-456-7890)'
+        
       ),
   });
 
@@ -207,7 +205,7 @@ export default function Register() {
               htmlFor="phone"
               className="peer-focus:font-medium absolute text-sm text-gray-500 dark:text-gray-400 duration-300 transform -translate-y-6 scale-75 top-3 -z-10 origin-[0] peer-focus:start-0 rtl:peer-focus:translate-x-1/4 peer-focus:text-green-600 peer-focus:dark:text-green-500 peer-placeholder-shown:scale-100 peer-placeholder-shown:translate-y-0 peer-focus:scale-75 peer-focus:-translate-y-6"
             >
-              Phone number (123-456-7890)
+              Phone number (+2519........)
             </label>
             {formik.errors.phone && formik.touched.phone && (
               <span className="text-red-600 font-light text-sm">
