@@ -52,7 +52,7 @@ export default function Footer() {
                     Game Over
                   </a>
                   <a
-                    href="https://todo-app-wine-tau.vercel.app/"
+                    href=""
                     target="_blank"
                     rel="noopener noreferrer"
                     className="block mt-2 text-sm text-gray-600 dark:text-gray-400 hover:underline"
@@ -139,14 +139,14 @@ export default function Footer() {
                       <i className="fa-lg fa-fw  fab fa-github"></i>
                     </a>
                     <a
-                      href="mailto:mohamed.ahmed.emary@gmail.com"
+                      href="abdu1234sultan@gmail.com"
                       target="_blank"
                       rel="noopener noreferrer"
                     >
                       <i className="fa-lg fa-fw  far fa-envelope"></i>
                     </a>
                     <a
-                      href="https://leetcode.com/Spark71"
+                      href=""
                       className="inline"
                       target="_blank"
                       rel="noopener noreferrer"
