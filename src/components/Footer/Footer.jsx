@@ -151,8 +151,7 @@ export default function Footer() {
             <div className="text-center italic py-3 text-gray-500 dark:text-gray-400">
           ZAMAJ ABDU PRODUCT STORE
             </div>
+            </div>
           </div>
       </footer>
-    </>
-  );
 }
